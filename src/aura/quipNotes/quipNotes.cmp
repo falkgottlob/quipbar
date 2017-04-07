@@ -1,4 +1,4 @@
-<aura:component description="Quip Component for Salesforce" controller="QuipLightingComponentController" implements="flexipage:availableForAllPageTypes,force:appHostable">
+<aura:component description="Quip Component for Salesforce" controller="Quip_LightingComponent_Controller" implements="flexipage:availableForAllPageTypes,force:appHostable">
     <aura:attribute name="recordId" type="Id"/>
     <aura:attribute name="sObjectName" type="String"/>
     <aura:attribute name="orgId" type="String"/>
